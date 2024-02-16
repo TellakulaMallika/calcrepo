@@ -5,3 +5,7 @@ Console.WriteLine("Add Call");
 calc.Add(12, 45);
 Console.WriteLine("Multiply Call");
 calc.Multi(10.5, 12.45);
+Console.WriteLine("Division Call");
+calc.Div(15, 5);
+Console.WriteLine("Subtraction Call");
+calc.Sub(10, 5);
