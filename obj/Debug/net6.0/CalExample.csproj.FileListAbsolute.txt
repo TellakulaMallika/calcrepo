@@ -12,3 +12,4 @@ C:\Users\sss\source\repos\CalExample\CalExample\obj\Debug\net6.0\refint\CalExamp
 C:\Users\sss\source\repos\CalExample\CalExample\obj\Debug\net6.0\CalExample.pdb
 C:\Users\sss\source\repos\CalExample\CalExample\obj\Debug\net6.0\CalExample.genruntimeconfig.cache
 C:\Users\sss\source\repos\CalExample\CalExample\obj\Debug\net6.0\ref\CalExample.dll
+C:\Users\sss\source\repos\CalExample\CalExample\obj\Debug\net6.0\CalExample.sourcelink.json

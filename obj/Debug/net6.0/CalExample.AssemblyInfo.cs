@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96dd60517cda579954f7f1c4b7caed56c9c56706")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
